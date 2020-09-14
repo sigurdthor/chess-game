@@ -1,0 +1,10 @@
+# scala-specific
+target
+*.class
+
+# intelij files
+*.iml
+*.ipr
+*.iws
+.idea
+out
